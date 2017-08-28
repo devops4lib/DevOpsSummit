@@ -49,4 +49,4 @@ Schedule & Notes
 |10:00 - 12:00|[Configuration Management](https://docs.google.com/document/d/1oF8J5xeLnmzZs7CzDDD9-MrgZ3UcV996-1_vRMMCUPw/edit)|||
 |1:00 -  2:00|[Observability, Logging](https://docs.google.com/document/d/1z1vVDVHvd1JGpRhOI-d3CU1agiewjsOHDlLrKzfC-hA/edit)|Containers, why? serverless?||
 |2:15 -  3:15|Observability, Monitoring|Containers, orchestration||
-|3:30 - 4:30|Documentation|Secrets Management|CI/CD|
+|3:30 - 4:30|[Documentation](https://docs.google.com/document/d/1ODnEBuFHoLlbyASOROkAIOFCAX0X40RBiBJLNUfj9w0/edit)|Secrets Management|CI/CD|
