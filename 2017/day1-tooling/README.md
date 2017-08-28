@@ -1,5 +1,5 @@
-Tools Topics
-
+Topics from surveys
+---
 * Configuration Management ++++++++
   * What is everyone else doing?
   * Best practices?
@@ -42,6 +42,8 @@ Tools Topics
   * Microservices vs Monolith
 * Documentation +++++
 
+Schedule & Notes
+---
 || Main Room | Seminar 215 | Seminar 216|
 |---|---|---|---|
 |10:00 - 12:00|[Configuration Management](https://docs.google.com/document/d/1oF8J5xeLnmzZs7CzDDD9-MrgZ3UcV996-1_vRMMCUPw/edit)|||
