@@ -56,3 +56,8 @@ How can we track technical app or ops technical debt?
 ## Deliverables
 * Could pull in devs to do maintenance sprints focused specifically on gamifying the elimination of technical debt.
 * Could utilize a system where the threshold of time dedicated to technical debt increases until a ceiling. (Northwestern's model).
+
+## Resources
+One great resource raised was that of "The Three Ways".
+A recommended book on Amazon is "[The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B00AZRBLHO/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)".
+Another good web resource is "[The Three Ways: The Principles Underpinning DevOps](https://itrevolution.com/the-three-ways-principles-underpinning-devops/)".
