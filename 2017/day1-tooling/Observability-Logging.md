@@ -38,11 +38,11 @@
 		* It kinda goes from Logging to Monitoring to Alerting. 
 
 ## Deliverables?
-	* A list of use cases.
-	* A list of tools, with a basic feature set for each.
-	* After listing use cases and tool features sets, create mappings between use cases and tools.
-	* After creating mappings, can create recommendations for most popular mappings.
-		* This could be great for grants or compaigning stakeholders for time to pay technical debt.
+* A list of use cases.
+* A list of tools, with a basic feature set for each.
+* After listing use cases and tool features sets, create mappings between use cases and tools.
+* After creating mappings, can create recommendations for most popular mappings.
+	* This could be great for grants or compaigning stakeholders for time to pay technical debt.
 
 ## List of Use Cases
 * Access control for logging data

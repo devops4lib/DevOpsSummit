@@ -89,14 +89,14 @@ How granular should our best practices be?
 	* puppet
 
 ## Let's start talking about specific commonalities!
-	* MySQL, Postgres, Oracle, MSSQL
-	* Application 
-	* A firm dividing line is putting components that could conflict (in terms of resource utilization) in different roles (if not VMs).
-	* There is an overlap between topology and tuning. Decoupling roles may a single large 'tune' operation.
-	* We should makes sure that the best practices we design can be used by institutions with slim resources (technological or human). The effort we're on should support that by really doing a lot of the planning work up front.
-	* Are messagng clients separate from databases?
-	* Cache layer? Memcache? etc
-	* Limitation of clusterization or architecting with containers is: Storage. Still has to be local for some people? Would backup be a resolution?
-	* persistance, storage, mempower, etc
-	* The conversation of moving from configuration management to roles to containerization is a mirror of what has already happened in the software development world.
-	* Systems thinking versus modular thinking? At which place do we need to worry about what responsibility?
+* MySQL, Postgres, Oracle, MSSQL
+* Application 
+* A firm dividing line is putting components that could conflict (in terms of resource utilization) in different roles (if not VMs).
+* There is an overlap between topology and tuning. Decoupling roles may a single large 'tune' operation.
+* We should makes sure that the best practices we design can be used by institutions with slim resources (technological or human). The effort we're on should support that by really doing a lot of the planning work up front.
+* Are messagng clients separate from databases?
+* Cache layer? Memcache? etc
+* Limitation of clusterization or architecting with containers is: Storage. Still has to be local for some people? Would backup be a resolution?
+* persistance, storage, mempower, etc
+* The conversation of moving from configuration management to roles to containerization is a mirror of what has already happened in the software development world.
+* Systems thinking versus modular thinking? At which place do we need to worry about what responsibility?
