@@ -1,0 +1,73 @@
+# Library Devops: CI/CD
+
+- What does every do?
+  - Stanford
+    - CI
+      - Travis CI
+        - Tied up to PR and Merges
+      - Starting an APP to give us deployable status of repos
+    - Automated Deploys
+      - Mostly automated deploys
+      - With Capistrano
+  - UCLA
+    - Using Jenkins
+      - 3 branches test/stage/prod
+      - test on merge
+      - stage on tag
+      - prod on bush button
+    - Want to use Travis
+      - Concerns about Hosted services
+      - More comfortable with Saas
+    - Artifacts on S3
+  - DCE
+    - Travis for CI
+    - Capistrano for Deployments
+    - The future
+      - Automated CD from Travis
+      - gonna use an EIP to do blue green
+  - UMD
+    - Trying to do more CI/CD
+    - No CD at this point
+    - No automated deployments
+    - Deployment are human based
+    - A little bit of Jenkins
+      - Hosts the Fedora community
+      - Uses SonarQube
+    - Because of Fedora, we want to do CI our through Jenkins
+  - bepress
+    - New stuff
+      - Newer applications have deployment pipeline to production
+      - Every commit is a release canidate
+      - Developers push deploy button
+    - Old Stuff
+      - slow migration from Run Book based deployments
+      - Nowadays we use ansible for deployments
+      - CircleCI for Ci
+  - Virginia Tech
+    - Lots of ansible for deployments
+    - No CI
+    - Using Servers, so do CI to serverless
+- What's the future
+  - On demand deploys for on prem
+    - How do you wire up all the infrastructure and packages
+    - It's hard
+    - Looked at Heaven as one example
+  - How do you do this better with out a bunch more 
+  - DCE
+    - Uses ansible to self bootstrap
+    - Last step of ansible is to run
+      - next to left cap self
+      - Add's all the ruby stuff
+  - On prem could be really difficult
+    - Needs git
+    - Needs cap
+    - Needs heaven
+  - GitFlow
+    - UMD
+      - Uses Gitflow
+      - Peter likes it
+      - Most developers on board
+      - Learning curve for developers
+      - If you are gonna use GitFlow use it earlier rather later
+      - Gitflow was top down
+        - But not many people to convince
