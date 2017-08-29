@@ -50,3 +50,8 @@ Schedule & Notes
 |1:00 -  2:00|[Observability, Logging](https://docs.google.com/document/d/1z1vVDVHvd1JGpRhOI-d3CU1agiewjsOHDlLrKzfC-hA/edit)|Containers, why? serverless?||
 |2:15 -  3:15|Observability, Monitoring|Containers, orchestration||
 |3:30 - 4:30|[Documentation](https://docs.google.com/document/d/1ODnEBuFHoLlbyASOROkAIOFCAX0X40RBiBJLNUfj9w0/edit)|Secrets Management|CI/CD|
+
+|10:00 - 12:00|Configuration Management ([doc1](https://docs.google.com/document/d/1oF8J5xeLnmzZs7CzDDD9-MrgZ3UcV996-1_vRMMCUPw/edit), [doc2](https://github.com/devops4lib/DevOpsSummit/blob/master/2017/day1-tooling/Configuration-Management.md))|||
+|1:00 -  2:00|Observability, Logging ([doc1](https://docs.google.com/document/d/1z1vVDVHvd1JGpRhOI-d3CU1agiewjsOHDlLrKzfC-hA/edit)[doc2](https://github.com/devops4lib/DevOpsSummit/blob/master/2017/day1-tooling/Observability-Logging.md))|Containers, why? serverless?||
+|2:15 -  3:15|[Observability, Monitoring](https://github.com/devops4lib/DevOpsSummit/blob/master/2017/day1-tooling/Observability-Monitoring-Tuning.md)|Containers, orchestration||
+|3:30 - 4:30|[Documentation](https://docs.google.com/document/d/1ODnEBuFHoLlbyASOROkAIOFCAX0X40RBiBJLNUfj9w0/edit)|[Secrets Management](https://github.com/devops4lib/DevOpsSummit/blob/master/2017/day1-tooling/Secrets-Management.md)|CI/CD|
