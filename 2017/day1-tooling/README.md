@@ -50,3 +50,28 @@ Schedule & Notes
 |1:00 -  2:00|Observability, Logging ([doc1](https://docs.google.com/document/d/1z1vVDVHvd1JGpRhOI-d3CU1agiewjsOHDlLrKzfC-hA/edit)[doc2](https://github.com/devops4lib/DevOpsSummit/blob/master/2017/day1-tooling/Observability-Logging.md))|Containers, why? serverless?||
 |2:15 -  3:15|[Observability, Monitoring](https://github.com/devops4lib/DevOpsSummit/blob/master/2017/day1-tooling/Observability-Monitoring-Tuning.md)|Containers, orchestration||
 |3:30 - 4:30|[Documentation](https://docs.google.com/document/d/1ODnEBuFHoLlbyASOROkAIOFCAX0X40RBiBJLNUfj9w0/edit)|[Secrets Management](https://github.com/devops4lib/DevOpsSummit/blob/master/2017/day1-tooling/Secrets-Management.md)|CI/CD|
+
+Retrospective
+---
+
++
+* Good structure on talks
+  * Starting with "what do we do well?"
+  * "What could you like to improve"
+  * "What deliverables to shoot for"
+  * "List of use cases"
+* Good scope for representatives institutions
+  * good size of crew for broad yet focused discussion
+  * good mix of dev and ops
+* Smaller breakouts were helpful
+  * everyone gets a chance to speak
+* Good participation on selecting topics
+* Phone call & Pre-Survey was great to frame the topics
+
+∆
+* More breaks
+* Fixed lighting while projecting
+* Lunch labeling
+* Keep an eye on what deliverables we can organize around
+  * perhaps start with a problem statement
+* Be bold on being a note taker!
