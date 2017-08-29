@@ -31,5 +31,5 @@ Schedule & Notes
 |---|---|---|---|
 |9:30 - 11:30|[Shifting Culture](https://github.com/devops4lib/DevOpsSummit/blob/master/2017/day2-people/Culture-Change.md)|||
 |1:00 -  2:00|[Extending DevOps](https://github.com/devops4lib/DevOpsSummit/blob/master/2017/day2-people/Extending-DevOps.md)|||
-|2:15 -  3:15|Training|Postmortems||
+|2:15 -  3:15|Training|[Postmortems](https://github.com/devops4lib/DevOpsSummit/blob/master/2017/day2-people/Postmortems.md)||
 |3:30 - 4:30|Solution sharing|whats right?||
