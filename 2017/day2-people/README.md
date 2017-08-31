@@ -32,4 +32,65 @@ Schedule & Notes
 |9:30 - 11:30|[Shifting Culture](https://github.com/devops4lib/DevOpsSummit/blob/master/2017/day2-people/Culture-Change.md)|||
 |1:00 -  2:00|[Extending DevOps](https://github.com/devops4lib/DevOpsSummit/blob/master/2017/day2-people/Extending-DevOps.md)|||
 |2:15 -  3:15|Training|[Postmortems](https://github.com/devops4lib/DevOpsSummit/blob/master/2017/day2-people/Postmortems.md)||
-|3:30 - 4:30|Solution sharing|whats right?||
+|3:30 - 4:30|Solution sharing|whats right for our org?||
+
+Retrospective
+---
+
++
+* Tooling day was useful and learned a lot about things we didn't know about
+* Github Repo +
+* Unstructured free-form discussions
+* Face to face meeting helpful
+* Positive atmosphere
+  * People were communicative and talkative
+* Stories with concrete examples allowed for more productive conversation
+* Structure of the days worked well
+* Report backs helped with having to have a split track days
+* Not too many sessions
+* Talks grounded in deliverables
+* Dedicated on just DevOps helped to focus the conversations
+* Two days is the correct length
+* Catering helped to continue conversation and alleviated worry for the day
+
+∆
+* Didn't hear from everyone all the time - might suggest a followup to make sure everyone felt comfortable to participate
+* Couple of topics were lost when we collapsed them
+* Sessionizer for the day instead
+* Pre-Planning & clarity on the goals for the days
+* Afternoon snacks!
+  * bottled water or spring water for containers
+* Public library representatives
+* remote participation?
+* locked breakout rooms
+
+Going Forward
+---
+
+### 2018 Summit
+* If held at Stanford we would definitely need pre-planning
+  * Hotel expense
+  * outside of libraries
+* Worry about scale
+  * More times a year?
+  * Regional meetups?
+    * might keep us silo'd
+* Worry about cost
+  * If at Stanford make sure there's catering
+* Working sessions?
+  * Full day if people were traveling
+    * pre-planning
+      * surveys and questionnaires - close to the summit +
+      * what would be the deliverables or objective for a hackfest day
+* UCSD, Penn State, CHF, U Penn *might* be interested in hosted
+
+### Year Round concerns
+* Monthly Calls
+  * zoom info share to listserv
+* Samvera Connect?
+  * Ansible Workshop?
+  * etc
+* How to share this with the world?
+  * Reports will be written
+  * Do we need to?
+  * go with the monthly meetings
