@@ -29,10 +29,10 @@ Schedule & Notes
 ---
 || Main Room | Seminar 215 | Seminar 216|
 |---|---|---|---|
-|9:30 - 11:30|Shifting Culture [notes 1](https://github.com/devops4lib/DevOpsSummit/blob/master/2017/day2-people/Culture-Change.md), [notes 2](shiftin_culture.md)|||
-|1:00 -  2:00|[Extending DevOps](https://github.com/devops4lib/DevOpsSummit/blob/master/2017/day2-people/Extending-DevOps.md)|||
+|9:30 - 11:30|Shifting Culture [notes 1](Culture-Change.md), [notes 2](shiftin_culture.md)|||
+|1:00 -  2:00|Extending DevOps [notes 1](Extending-DevOps.md), [notes 2](Extending-DevOps2.md)|||
 |2:15 -  3:15|Training|[Postmortems](https://github.com/devops4lib/DevOpsSummit/blob/master/2017/day2-people/Postmortems.md)||
-|3:30 - 4:30|Solution sharing|whats right for our org?||
+|3:30 - 4:30|Solution sharing|[whats right?](whats_right.md)||
 
 Retrospective
 ---
@@ -94,3 +94,4 @@ Going Forward
   * Reports will be written
   * Do we need to?
   * go with the monthly meetings
+
