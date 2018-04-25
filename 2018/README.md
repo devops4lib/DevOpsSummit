@@ -1,9 +1,16 @@
 ## DevOps4Lib 2018 Summit in Philadelphia
 
 ## General Information
-The  DevOps4Lib 2018 Summit will be held Wednesday, May 16th at [Van Pelt Library](http://www.library.upenn.edu/about/access/vanpelt) at the University of Pennsylvania and Thursday, May 17th at the [Science History Institute](https://www.sciencehistory.org/visit). Directions and group facilitation of travel between these locations will be provided.  Breakfast and light snacks will be provided both days.  Details are distributed on the LibDevOps mailing list.
+The  DevOps4Lib 2018 Summit will be held Wednesday, May 16th at [Van Pelt Library](http://www.library.upenn.edu/about/access/vanpelt) at the University of Pennsylvania and Thursday, May 17th at the [Science History Institute](https://www.sciencehistory.org/visit). Directions and group facilitation of travel between these locations will be provided.    Details are distributed on the LibDevOps mailing list.
 
-Due to constraints on event space and resources, this event will be capped at 40 people.
+Registration is free but will be will be capped at 40 people due to constraints on event space and resources.
+
+
+### Food
+Breakfast, as well light snacks and beverages will be provided both days.
+
+Lunch will not be provided, however groups will be organized to go to local restaurants where conversations about particular topics can be continued. More details closer to the date of the event. Attendees choosing to have lunch on their own can consult our [Local Restaurant Listings](#food) below.
+
 
 ## Travel Logistics
 
