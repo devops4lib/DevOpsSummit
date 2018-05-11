@@ -27,3 +27,4 @@ A small block of hotel rooms has been reserved at [Homewood Suites, University C
 
 ### Food
 * [Food options near the University of Pennsylvania](https://docs.google.com/document/d/1QyyvyatlOMOd3BnwAUjPGuJiVvfNp2kk1cp5Y7UvtoY/edit)
+* [Food options near the Science History Institute](https://docs.google.com/document/d/1hObT90V35i37foseLUgJmLEua4r6KqbBY1fCNnFyf4w/edit?usp=sharing)
