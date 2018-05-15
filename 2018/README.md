@@ -6,7 +6,11 @@ The  DevOps4Lib 2018 Summit will be held Wednesday, May 16th at [Van Pelt Librar
 Registration is free but will be capped at 40 people due to constraints on event space and resources.
 
 ### Getting here
-The **Van Pelt Library** is at 3420 Walnut Street. Access is not from Walnut Street, which is the back of the library, but rather via the doors on the quadrangle (Blanche Levy Park), easily recognizable from the [big button sculpture](http://hdl.library.upenn.edu/1017/82076) in front of the library. A map to the accessible entrance is provided in [this PDF](http://www.facilities.upenn.edu/sites/default/files/pennaccess/PA0580L-VanPeltLibrary.pdf).  A photo ID is required to enter the library.
+Wednesday the 16th will take place at the **Van Pelt Library** is at 3420 Walnut Street. Access is not from Walnut Street, which is the back of the library, but rather via the doors on the quadrangle (Blanche Levy Park), easily recognizable from the [big button sculpture](http://hdl.library.upenn.edu/1017/82076) in front of the library. A map to the accessible entrance is provided in [this PDF](http://www.facilities.upenn.edu/sites/default/files/pennaccess/PA0580L-VanPeltLibrary.pdf).  A photo ID is required to enter the library.
+Thursday the 17th will take place at the **Science History Institute** at 315 Chestnut St. You can easily get there from hotels near Penn by taking the Market Frankford Line (MFL) to the 5th or 2nd St stops. You'll want to then go south one block to Chestnut Street. You'll find the Institute just off of 3rd St. Come in the front doors, and tell the front desk you're here for the DevOps4Lib conference. You'll be pointed to an elevator which you can take to the second floor conference center. There will be a registration desk to point out what rooms we have for the conference center and there will be a breakfast of bagels, fruit, yogurt, and various pastries laid out. We'll also have coffee, tea, and juices for everyone. The rooms we'll be starting in will Franklin 1 and 2. We also should have access to Garden 2 for breakout sessions.
+
+Sign in and breakfast will start at 8:30 a.m. and we'll begin at 9.
+
 
 ### Food
 Breakfast, as well light snacks and beverages will be provided both days.
