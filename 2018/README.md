@@ -37,3 +37,8 @@ A small block of hotel rooms has been reserved at [Homewood Suites, University C
 ### Food
 * [Food options near the University of Pennsylvania](https://docs.google.com/document/d/1QyyvyatlOMOd3BnwAUjPGuJiVvfNp2kk1cp5Y7UvtoY/edit)
 * [Food options near the Science History Institute](https://docs.google.com/document/d/1hObT90V35i37foseLUgJmLEua4r6KqbBY1fCNnFyf4w/edit?usp=sharing)
+
+### Conference Chat
+
+We'll be chatting on the `#devops` channel on the code4lib slack. If you need an account on the code4lib slakc, you can sign up
+at https://docs.google.com/forms/d/120Dw1JjLxPJB9VTGl0mUY7Ot6yg6YNY1RZUISJFzdwk/viewform?c=0&w=1
