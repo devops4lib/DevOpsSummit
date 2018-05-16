@@ -40,5 +40,5 @@ A small block of hotel rooms has been reserved at [Homewood Suites, University C
 
 ### Conference Chat
 
-We'll be chatting on the `#devops` channel on the code4lib slack. If you need an account on the code4lib slakc, you can sign up
+We'll be chatting on the `#devops` channel on the code4lib slack. If you need an account on the code4lib slack, you can sign up
 at https://docs.google.com/forms/d/120Dw1JjLxPJB9VTGl0mUY7Ot6yg6YNY1RZUISJFzdwk/viewform?c=0&w=1
