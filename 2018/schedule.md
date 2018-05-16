@@ -1,57 +1,58 @@
 Topics from surveys
 ---
-* Configuration Management
-  * Secrets Management
-  * Best Practices
-  * Configuration in the Cloud
-  * Configuration of Containers
-  * Tooling specifics (Ansible, Packer, etc.)
+* Configuration Management (17)
+  * Secrets Management (17) all
+    * problem statement: What are the risks? what points of failure? How to hand off secrets without opening up vulnerability?
 
-* Observability
+  * Ansible - breakout
+  * Terraform - breakout
+  * Tooling choices - breakout
+    * problem statement: When and why to use one tool over the other?
+
+* Observability (all)
   * Logging
   * Monitoring
   * Alerting
   * Metrics
 
-* Containers
+* Containers (15)
   * Docker
     * Multi-image builds
   * Orchestration (including rollbacks)
   * Tooling specifics (K8s, ECS, GCP, Azure)
+  * Configuration of Containers
 
-* The Cloud
+* The Cloud (14)
   * Serverless
     * Lambda
   * Cloud Deployments
     * Tooling (CI, Terraform, etc.)
+  * Configuration in the Cloud
 
-* CI/CD
+* CI/CD (8)
 
-* Documentation
+* Documentation (7)
 
-* Culture Change
+* Culture Change (14)
+  * Extending DevOps across the Organization
 
-* Postmortems
+* Postmortems (10)
 
-* Extending DevOps across the Organization
+* Solution Sharing (14)
 
-* Solution Sharing
-
-* Training
+* Training (5)
   * Keeping up with the State of the Art
-
-* Easy/Simple/Complicated/Complex
 
 Schedule & Notes
 ---
 || Main Room | Breakout 1 | Breakout 2|
 |---|---|---|---|
 |9:15 - 10:00|Intros and Scheduling|||
-|10:00 - 11:30||||
+|10:00 - 11:30|Secrets Management|||
 |11:30 - 1:00|Lunch (on your own)|||
-|1:00 - 2:30||||
+|1:00 - 2:30|Ansible|Terraform|Tooling Choices|
 |2:30 - 3:00|Break|||
-|3:00 - 4:30||||
+|3:00 - 4:30|Observability|||
 |4:30 - 5:00|Retro for the day|||
 
 
@@ -67,7 +68,7 @@ Schedule & Notes
 
 Breakout tips
 ---
-* Select a notetaker, a timekeeper, and a gatekeeper
+* Select a facilitator, a notetaker, a timekeeper, and a gatekeeper
 * Start with a problem statement or try to answer the following questions:
   * What do we do well?
   * What would you like to improve?
