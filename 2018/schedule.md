@@ -48,11 +48,11 @@ Schedule & Notes
 || Main Room | Breakout 1 | Breakout 2|
 |---|---|---|---|
 |9:15 - 10:00|Intros and Scheduling|||
-|10:00 - 11:30|Secrets Management|||
+|10:00 - 11:30|[Secrets Management](https://docs.google.com/document/d/1u6QLzdefYV9McyO7DUxIyAbeu8Xluvvwsq7KBwUTspU/edit)|||
 |11:30 - 1:00|Lunch (on your own)|||
-|1:00 - 2:30|Ansible|Terraform|Tooling Choices|
+|1:00 - 2:30|[Ansible](https://docs.google.com/document/d/1yS7MvodayDqbhkxNhWuorZJe0wsYaei1JTWza_FQQD4/edit)|[Terraform](https://docs.google.com/document/d/14kpSs6K_J6Xjdt1xk34Cd88S6OVpRKrX2cmRDKTOLTg/edit)|Tooling Choices|
 |2:30 - 3:00|Break|||
-|3:00 - 4:30|Observability|||
+|3:00 - 4:30|[Observability](https://docs.google.com/document/d/1YWF50398aILgktcciCrwZeU1DX0Ng35UsliMN5ToMcA/edit)|||
 |4:30 - 5:00|[Retro for the day](day1-retro.md)|||
 
 
