@@ -58,11 +58,11 @@ Schedule & Notes
 
 || Main Room | Breakout 1 | Breakout 2|
 |---|---|---|---|
-|9:30 - 11:30||||
+|9:30 - 11:30|Containers|Solution Sharing||
 |11:30 - 1:00|Lunch (on your own)|||
-|1:00 - 2:30||||
+|1:00 - 2:30|The Cloud|Documentation and Training|SCS|
 |2:30 - 3:00|Break|||
-|3:00 - 4:30||||
+|3:00 - 4:30|Cloud Storage|Culture Change|Post Mortems|
 |4:30 - 5:00|Retro for the day|||
 
 
