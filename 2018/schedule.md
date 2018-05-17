@@ -53,7 +53,7 @@ Schedule & Notes
 |1:00 - 2:30|Ansible|Terraform|Tooling Choices|
 |2:30 - 3:00|Break|||
 |3:00 - 4:30|Observability|||
-|4:30 - 5:00|Retro for the day|||
+|4:30 - 5:00|[Retro for the day](day1-retro.md)|||
 
 
 || Main Room | Breakout 1 | Breakout 2|
@@ -74,33 +74,3 @@ Breakout tips
   * What would you like to improve?
   * What are the desired deliverables?
   * What are our use cases?
-
-
-Retrospective
----
-pluses (liked, and learned)
-  * figured out topics early
-  * appreciated the longer sessions
-  * gatekeepers work!
-    * "just explain it"
-  * slack channel for chatter for question
-  * coffee all day is great - big plus for breakfast
-  * reorg'd the room
-  * learned terraform stuff
-  * people were chatty
-  * it was free!
-  * common to build on previous points - a topic was maintained and fully explored
-  * cohesive
-  * everyone open about failures
-
-deltas
-  * please two notetakers
-  * didn't front end the needs introverts
-  * open up the conf earlier and give a confirmation for registration
-  * earlier email about travel detail
-  * parking details in welcome email
-  * competing topics for breakouts
-  * have small group of lightning talks
-    * or more walk throughs on actual code
-  * emphasize that the gatekeeper role to make sure there's room for everyone to participate - slow the convo down for 5 seconds to make sure
-  * etiquette rules up front
