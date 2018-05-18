@@ -78,3 +78,7 @@ There is a possibility for sharing knowledge here.
 
 AWS? Google? Azure?
 nyu: 1.4 petabytes. Initial time estimate of moving everything was 70 days. Use AWS Snowball: they ship you a physical box. It builds checksums on the way in, they plug it in and offload it, running the checksums again. If you have a lot of data they have a semi called the "snowmobile." DirectConnect for dailies. These products make AWS a clear winner.
+
+Additional resources, added later on Slack:
+* Working public "Digital Preservation Criteria" which a number of people in the field have collaborated on https://docs.google.com/document/d/1CEkcWskAbph0gQ4ATK_SWYw-6-8zBxnGFfqZiwtfpEI/edit
+* This is a great "quick sum up" of potential cloud storage options and the level (according to AVP) of preservation they meet: https://www.avpreserve.com/cloud-storage-vendor-profiles/
