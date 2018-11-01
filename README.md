@@ -18,3 +18,7 @@ To join the mailing list
 2. We don't know what we are yet
 
 We are still learning, so we don't have any specifics.
+
+3. We have a blog!
+
+You could post to [it](https://github.com/devops4lib/devops4lib.github.io/tree/master)

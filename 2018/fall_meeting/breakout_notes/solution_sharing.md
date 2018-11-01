@@ -51,6 +51,6 @@ Ideas / action items:
 * Add a day to this gathering where we pair to review one anothers' solutions / configuration code, etc.
 * purchase a top-level domain for our blog (Erin volunteered)
 * program a slack bot to "blog this" from slack
-* put blog info on readme of our primary github repo
+* put blog info on readme of our primary github repo (done)
 * Set a slack reminder to prompt people to post to the blog (include pointer to documentation on how to do this)
 * Add a README to https://github.com/devops4lib/devops4lib.github.io with instructions, pointers to jekyll documentation. (done!)
