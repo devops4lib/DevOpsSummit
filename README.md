@@ -25,4 +25,4 @@ You could post to [it](https://github.com/devops4lib/devops4lib.github.io/tree/m
 
 ## Alphabetical listing of some github repos
 
-[github_repositories.md](Github Repositories)
+[Github Repositories](github_repositories.md)
