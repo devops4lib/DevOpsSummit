@@ -95,3 +95,5 @@ encrypted in transit
 Encrypted at rest
 
 Doing research on providers can be difficult, as it can easily go out of date
+
+Supporting the work of the [National Web Privacy Forum](https://www.lib.montana.edu/privacy-forum/) is one way our community can help.
