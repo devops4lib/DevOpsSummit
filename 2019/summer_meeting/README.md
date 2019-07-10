@@ -3,7 +3,7 @@
 ### General Information
 The  DevOps4Lib 2019 Summer Summit will be held Wednesday, July 10th and Thursday, July 11th at [McCosh Hall](https://www.google.com/maps/place/McCosh+Hall,+Princeton,+NJ+08544/@40.348295,-74.6587818,17z/data=!3m1!4b1!4m5!3m4!1s0x89c3e6c3eec86f0b:0xddfa22d7d9056f32!8m2!3d40.348295!4d-74.6565931).
 
-We're in room 24. If you enter McCosh at Entry 2 (north / long side of the
+We're in room 26. If you enter McCosh at Entry 2 (north / long side of the
 building), go to the 2nd floor and it's around to the right.
 
 ### Getting here
