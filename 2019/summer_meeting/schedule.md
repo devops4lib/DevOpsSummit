@@ -54,7 +54,7 @@ Times are TBD; we'll figure all this out together!
 |9:20 - 10:00|Introductions and Summit planning|
 |10:10 - 10:15|Session Guidelines|
 |10:15 - 10:35|Defining Dev-ops|
-|11:30 - 12:30|Cloud|
+|10:40 - 11:40|Cloud|
 |1:00 - 2:00|Containers|
 |2:00 - 3:00|Monitoring / log analysis|
 |3:00 - 4:00|Engineering for the extremely long-term|
