@@ -118,3 +118,33 @@ Start
 Stop
   * Being so hot
 
+
+### Day 2 retro
+
+Plus
+  * Awesome group, great discussions
+  * We wanna do it again next year
+  * Safe space where we can speak candidly
+  * Tight focus of this meeting
+  * Lots of take-away from this meeting that turns into real changes with
+    co-workers.
+  * Single track for < 20 people worked.
+  * Logistics
+  * Length
+  * Note-taking was quality
+
+Minus
+  * heeeeat
+
+Delta
+  * Let's get more people next time
+    * Time of year? Mid-June?
+    * Recruitment (use monthly remote meetings)
+    * Recruit specific people that you know are doing interesting things
+  * If we had a larger group we would want breakout sessions
+    * breakouts around the idea of what dev-ops means to different people
+  * Add a plenary? Lightning talks?
+    * We like this idea. Assign them ahead of time.
+  * Need information on the README about what to expect in the format.
+  * Hack time?
+
