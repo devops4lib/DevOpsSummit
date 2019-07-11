@@ -65,7 +65,7 @@ Project management on dev-ops teams (1 pity vote)
 ### Day 2
 
 | Time | Topic |
-|---|---|---|---|
+|---|---|
 |9:00 - 9:30|Housekeeping, scheduling for the day|
 |9:11 - 10:00|[Dev-ops across departments](day_two/devops_accross_department.md)|
 |10:10 - 11:00|[Testing in dev-ops](day_two/testing.md)|
