@@ -64,15 +64,15 @@ Project management on dev-ops teams (1 pity vote)
 
 ### Day 2
 | Time | Topic |
-|---|---|---|---|
+|---|---|
 |9:00 - 9:30|Housekeeping, scheduling for the day|
 |9:11 - 10:00|Dev-ops across departments|
-|10:10 - 11:00|Testing in dev-ops|
-|11:05 - 11:55|Automating infrastructure|
+|10:10 - 10:50|Testing in dev-ops|
+|11:00 - 11:50|Automating infrastructure|
 |12:00 - 1:00|Lunch|
-|1:00 - 2:00|Continuous Delivery|
-|2:10 - 3:10|Incident response|
-|3:20 - 3:45|Wrap-up||
+|1:00 - 1:45|Continuous Delivery|
+|1:55 - 2:40|Incident response|
+|2:45 - 3:15|Wrap-up|
 
 ## Breakout tips
 * Select a facilitator, a notetaker, a timekeeper, and a gatekeeper
