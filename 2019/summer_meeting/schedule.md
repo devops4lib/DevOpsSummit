@@ -39,7 +39,9 @@ Automating infrastructure (6)
 Continuous Delivery (5)
 
 Incident response (4)
+  * response
   * SLAs (Service Level Agreements)
+  * post mortems
 
 Minimal dev-ops (3)
 
@@ -53,23 +55,22 @@ Project management on dev-ops teams (1 pity vote)
 |---|---|
 |9:20 - 10:00|Introductions and Summit planning|
 |10:10 - 10:15|Session Guidelines|
-|10:15 - 10:35|[Defining Dev-ops](day_one/defining_devops.md)|
-|10:40 - 11:40|[Cloud](day_one/cloud.md)|
+|10:15 - 10:35|Defining Dev-ops|
+|10:40 - 11:40|Cloud|
 |11:45 - 12:45|Lunch|
-|12:45 - 1:45|[Containers](day_one/containers.md)|
-|2:00 - 2:55|[Monitoring / log analysis](day_one/monitoring_and_log_analysis.md)|
-|3:05 - 4:05|[Engineering for the extremely long-term](day_one/engineering_for_extremely_long_term.md)|
+|12:45 - 1:45|Containers|
+|2:00 - 2:55|Monitoring / log analysis|
+|3:05 - 4:05|Engineering for the extremely long-term|
 |4:15 - 5:00|Wrap-up and Retro|
 
 
 ### Day 2
-
 | Time | Topic |
 |---|---|
 |9:00 - 9:30|Housekeeping, scheduling for the day|
-|9:11 - 10:00|[Dev-ops across departments](day_two/devops_accross_department.md)|
-|10:10 - 11:00|[Testing in dev-ops](day_two/testing.md)|
-|11:05 - 11:55|Automating infrastructure|
+|9:11 - 10:00|Dev-ops across departments|
+|10:10 - 10:50|Testing in dev-ops|
+|11:00 - 11:50|Automating infrastructure|
 |12:00 - 1:00|Lunch|
 |1:00 - 1:45|Continuous Delivery|
 |1:55 - 2:40|Incident response|
