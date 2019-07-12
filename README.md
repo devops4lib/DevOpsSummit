@@ -1,27 +1,34 @@
+This repo holds planning documents and breakout notes for the DevOps 4 Libraries Summit.
+
 ## DevOps Summit
 
-A repository for holding planning documents and breakout notes for the DevOps 4 Libraries Summit
+We hold an annual 2-day unconference-style meeting at Princeton University. The date / time-of-year
+varies. Group size has been 15-30 people.
 
-## If you would like to Join
+Process: We gather together to brainstorm topics we want to discuss. Then we vote on each
+one, with each participant voting as many times as they want. The group works
+together, with a facilitator, to determine which topics should be plenary and which should be broken
+into smaller / parallel tracks.
 
-We don't know exactly whats going right now, But, there are a few things we appreciate about the effort in it's current form. If you would like to join please consider the following things.
+Everyone should come ready to participate by sharing problems and/or solutions.
 
-1. Everyone participates
+## Other communication channels
+### Monthly (remote) meetings
+https://github.com/devops4lib/meetings
 
-We have monthly calls, some in person meetings, and a  mailing list. There is a high degree of participation and we appreciate that.
+### Slack channel
+We stay in touch on #devops in the code4lib slack org.
 
+### Mailing List
 To join the mailing list
 * Type listserv(at)princeton(dot)edu in the To: box.
 * Delete the signature line from the body of the email if it is included automatically.
 * Include the following line in the body of the message: subscribe libdevops YourFirstName YourOtherName(s)
 
-2. We don't know what we are yet
-
-We are still learning, so we don't have any specifics.
-
-3. We have a blog!
-
-You could post to [it](https://github.com/devops4lib/devops4lib.github.io/tree/master)
+### Blog
+https://devops4lib.github.io/
+Created during one of our summits and still awaiting content, we hope this blog
+will be a place for community members to share problems and solutions, large and small. Contribute at https://github.com/devops4lib/devops4lib.github.io/
 
 ## Alphabetical listing of some github repos
 
