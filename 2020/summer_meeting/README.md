@@ -2,10 +2,12 @@
 
 ### General Information
 
-The  DevOps4Lib 2020 Summer Summit will be held Wednesday, May 6th and Thursday, May 7th on zoom. Attendees will receive an email with connection info.
+The DevOps4Lib 2020 Summer Summit will be held Wednesday, May 6th and Thursday, May 7th on zoom. Attendees will receive an email with connection info.
 
-May 6 (Wednesday): 11am - 5pm Eastern
-May 7 (Thursday): 11am - 2pm Eastern
+Hours:
+
+* May 6 (Wednesday): 11am - 5pm Eastern
+* May 7 (Thursday): 11am - 2pm Eastern
 
 ### Conference Chat
 This year chat will be discouraged in favor of centralized communication in
@@ -17,18 +19,18 @@ and out-of-band notes.
 Many 5-minute breaks are scheduled throughout the day. These are intended for quick bio needs and stretching / looking out the window to care for our bodies.
 
 #### Wednesday, May 6, 11am-5pm
-11am: Opening Session (55 min)
-Noon: topic 1 (55 min)
-1pm: break (30 min)
-1:30: Social breakouts (15 min)
-1:45: Social breakouts (15 min)
-2pm: topic 2 (55 min)
-3pm: break (30 min)
-3:30: topic 3 (55 min)
-4:30: retro (30 min)
+* 11am: Opening Session (55 min)
+* Noon: topic 1 (55 min)
+* 1pm: break (30 min)
+* 1:30: Social breakouts (15 min)
+* 1:45: Social breakouts (15 min)
+* 2pm: topic 2 (55 min)
+* 3pm: break (30 min)
+* 3:30: topic 3 (55 min)
+* 4:30: retro (30 min)
 
 #### Thursday, May 7, 11am-2pm
-11am: topic 4 (55 min)
-Noon: topic 5 (55 min)
-1pm: break (30 min)
-1:30: retro (30 min)
+* 11am: topic 4 (55 min)
+* Noon: topic 5 (55 min)
+* 1pm: break (30 min)
+* 1:30: retro (30 min)
