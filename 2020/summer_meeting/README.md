@@ -14,18 +14,18 @@ Many 5-minute breaks are scheduled throughout the day. These are intended for qu
 
 #### Wednesday, May 6, 11am-5pm
 * 11am: Opening Session (55 min)
-* Noon: topic 1 (55 min)
+* Noon: topic 1 (55 min) - Deployment & Automation
 * 1pm: break (30 min)
 * 1:30: Social breakouts (15 min)
 * 1:45: Social breakouts (15 min)
-* 2pm: topic 2 (55 min)
+* 2pm: topic 2 (55 min) - Culture
 * 3pm: break (30 min)
-* 3:30: topic 3 (55 min)
+* 3:30: topic 3 (55 min) - Logging / Observability
 * 4:30: retro (30 min)
 
 #### Thursday, May 7, 11am-2pm
-* 11am: topic 4 (55 min)
-* Noon: topic 5 (55 min)
+* 11am: topic 4 (55 min) - Incident Response
+* Noon: topic 5 (55 min) - Secrets Management
 * 1pm: break (30 min)
 * 1:30: retro (30 min)
 
@@ -35,9 +35,17 @@ This year chat will be discouraged in favor of centralized communication in
 docs](https://drive.google.com/drive/folders/1INxx_Z3kWe7Zu30p76telRitMB8qa4tV). This will help all hosts and attendees stay focused on our
 discussion. Each docs will each have 3 sections: Stack, Notes, and Miscellaneous (an area links, comments, and out-of-band notes).
 
+Update: We had too many people to simultaneously update the google doc, so we
+are using zoom chat for links and comments as we go along.
+
 ### The Stack
 
 The stack is a moderation tool that will allow us to ensure everyone can join the discussion and maintain a predictable pace. It is a First-in-first-out queue managed by our facilitator, at the top of each notes document. When you want to get on the stack, use the zoom "raise hand" feature. The facilitator will add you to the bottom of the stack and unraise your hand. The moderator will call each person in turn from the top of the stack and remove their name. This means you may have to wait between thinking of a contribution and reaching the top of the stack -- it can help to jot down a note (either in the doc or in front of you) so you don't forget what you wanted to contribute. We hope that managing the discussion this way will help us ensure we get a chance to hear and learn from everyone, regardless of variations in network speed or personal differences in pause time.
+
+Update: The stack worked very well on the first day and for day 2 we are
+expanding it to 2 stacks: one for the current "thread" of discussion (use raise
+hand icon) and another
+to introduce a new thought or idea (use coffee cup icon).
 
 ### Code of Conduct
 This meeting is governed by the code4lib code of conduct:
