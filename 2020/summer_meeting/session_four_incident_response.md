@@ -14,7 +14,7 @@ Notetaker 2: James Griffin
 
 ## Managing your team members in an incident response
 - Overview of what people are doing
-    - Emergency services incident command system as background. First person in scene is incident commander until someone with more experience shows up. Are others in library tech doing similar / different things?
+    - Emergency services incident command system as background. First person in scene is incident commander until someone with more managerial responsibility shows up. Are others in library tech doing similar / different things?
     - Small team: response may be reflected by how the problem was brought to the team (whoever noticed first is stuck with it, can hand off to others if they get stuck). Sometimes devs get first alert, sometimes operations depending on the system that triggered the alert. With only one person they sometimes need to take time away to focus on communication. Post mortem after event.
     - Process for not big down time, but possibly persistent / cross team: #incident_response slack channel. Post, start a zoom. Real time communication. Possibly implemented unevenly so it’s hard to know if it’s working well or not (different teams may be interpreting the process slightly different)
     - Incident response is a dedicated team (using ServiceNow). Initially started with library IT was part of central IT (no longer the case). Many ways to file a problem. Many of the issues coming in these channels are operations focused, more than developer. Developers will be called in if appropriate. Triage via managers. SLAs are used to prioritize. ITIL
