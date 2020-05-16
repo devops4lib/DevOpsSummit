@@ -30,7 +30,14 @@ Here we tried to retro things we didn't touch on in day 1
 
 ## Retro discussion notes
 
-Having two "fuller" days would have allowed us to cover more topics. 
+Having two "fuller" days would have allowed us to cover more topics.
 Combining the sessions even virtually does allow more perspectives.
 
 ## Moving Forward
+
+* We have the mechanics set up for monthly discussions.
+* Monthly discussion just needs to be coordinated. Francis has done this but it's on invited speakers to follow through.
+* Could we do a series of "here's what we're doing please give me suggestions"
+* Shrink the amount of time we ask a presenter to fill, and lengthen the time of Q&A, discussion.
+* What about all the topics we didn't get to at this meeting? Can we schedule discussion-only monthly meetings?
+* Add more process to weekly "what are you working on?" prompt? In order to leverage peoples' responses into meeting topics.
