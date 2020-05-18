@@ -1,24 +1,24 @@
-#Session 3 - Logging / Observability
+# Session 3 - Logging / Observability
 Notetaker 1: David
 Notetaker 2: Daniel 
 
 Stack
 Francis
 
-##Notes
+## Notes
 Who keeps your logs these days? (FK)
 APM? Pros/Cons? Worth it? (AG) (Application Performance metrics)
 What are folks doing for monitoring these days? 
 Automated alerts - what do you keep track of, how do you get notified
 
-##Observability Definitions:
+## Observability Definitions:
 * See what is happening inside a running application
     * Log streaming
     * Metrics
     * Services to view inside the code
 * Compared to tests see what is happening inside the environment distinct from the tests
 
-##What types of tools people are using:
+## What types of tools people are using:
 * Honey Badger to Splunk
     * Use splunk to colocate logs.
 * Logsz.io as a central log repository 
@@ -72,7 +72,7 @@ Automated alerts - what do you keep track of, how do you get notified
     * Logging everything can capture more and be more effective than analytics.
 * I’ve come across users wanting to not use logs to do analytics in favor of other tooling.
 * Trying to track user behavior to see when users are struggling or finding an issue does not work the way we want it to.
-* The point made about the value of logs as a valuable way to see user activity can also make them a dangerous source of user PII. How do those of us that ship them out look at cleaning those logs to mitigate that risk or have folks given up that fight?
+* The point made about the value of logs as a valuable way to see user activity can also make them a dangerous source of user PII (Personally Identifiable Information). How do those of us that ship them out look at cleaning those logs to mitigate that risk or have folks given up that fight?
     * Data Dog by default has a do not ship statement so you have to be explicit about what you do shape to them.
 * For PII in logs there is the intent of being able to handle the log data before it gets sent out. You’re paying for 15 days of retention but you don’t know how long they are holding onto it.
     * Clean or sort out data before sending it out mentioned as a benefit of control of the data
@@ -87,7 +87,7 @@ Automated alerts - what do you keep track of, how do you get notified
 * The #devops slack channel has a bot that asks “what are you working on this week” which is a nice way to initiate collaboration.
 
 
-###Alerting
+### Alerting
 * How do people stop the email (I get 100s of email every single day).
     * Put them on a slack channel and ignore the channel.
 * Used to be a network admin and used a tool called tweet (old school late 90s tool) which can convert content to audio noises. Used Nagios with gentle sea sounds so the noise wasn’t stressful to be able to “hear” the state of the systems.
