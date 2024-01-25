@@ -13,6 +13,15 @@ Originally hosted at Princeton University, we've also been hosted in Philadelphi
 
 Group size has been 15-40 people.
 
+With the exception of the fully virtual May 2020 meeting, the DevOps4Lib Summit is held as an in-person-only event. Organizers recognize the trade-offs made in this decision, including:
+* An increased sense of community and trust makes it easier discuss problems and challenges
+* Decreased access to the meetings
+* Decreased hosting requirements and a lower event cost for attendees
+
+To offset the drawbacks around access, we assign note takers at every session and ensure that the notes are then added to this repository. We also hope that other code4lib affiliated institutions and individuals will host similar meetings in different regions.
+
+During this event please expect some extra use of the code4lib#devops slack channel as attendees coordinate with one another.
+
 ## Unconference Process
 
 We gather together to brainstorm topics we want to discuss. Then we vote on each one, with each participant voting as many times as they want. The group works together, with a facilitator, to determine which topics should be plenary and which should be broken into smaller / parallel tracks.
