@@ -1,25 +1,36 @@
 This repo holds planning documents and breakout notes for the DevOps 4 Libraries Summit.
 
-## DevOps Summit
+## DevOps4Lib Summit
 
-We hold an annual 2-day unconference-style meeting at Princeton University. The date / time-of-year
-varies. Group size has been 15-30 people.
+See https://www.library.upenn.edu/events/devops4lib-2024 for 2024 event information and registration!
 
-Process: We gather together to brainstorm topics we want to discuss. Then we vote on each
-one, with each participant voting as many times as they want. The group works
-together, with a facilitator, to determine which topics should be plenary and which should be broken
-into smaller / parallel tracks.
+The DevOps4Lib Summit is a 2-day unconference held for discussion and problem
+solving around devops culture and technical topics such as deployment,
+continuous integration, observability, incident response, and secrets
+management.
+
+Originally hosted at Princeton University, we've also been hosted in Philadelphia, PA by the University of Pennsylvania and the Science History Institute. The summit was held annually for several years until a global shift to virtual work and events led to a hiatus for this event.
+
+Group size has been 15-40 people.
+
+## Unconference Process
+
+We gather together to brainstorm topics we want to discuss. Then we vote on each one, with each participant voting as many times as they want. The group works together, with a facilitator, to determine which topics should be plenary and which should be broken into smaller / parallel tracks.
 
 Everyone should come ready to participate by sharing problems and/or solutions.
 
 ## Other communication channels
-### Monthly (remote) meetings
-https://github.com/devops4lib/meetings
-
 ### Slack channel
-We stay in touch on #devops in the code4lib slack org.
+Our primary mode of communication is the #devops channel in the [code4lib slack org](https://code4lib.org/irc/).
+
+### Monthly (remote) meetings
+We have had some zoom calls on special topics, notes from those are in their own
+repo: https://github.com/devops4lib/meetings
 
 ### Mailing List
+We had a mailing list for a while but it is no longer in active use. For email
+announcements we use the code4lib email list.
+
 To join the mailing list
 * Type listserv(at)princeton(dot)edu in the To: box.
 * Delete the signature line from the body of the email if it is included automatically.
@@ -30,6 +41,6 @@ https://devops4lib.github.io/
 Created during one of our summits and still awaiting content, we hope this blog
 will be a place for community members to share problems and solutions, large and small. Contribute at https://github.com/devops4lib/devops4lib.github.io/
 
-## Alphabetical listing of some github repos
+## Participant institution github repos
 
-[Github Repositories](github_repositories.md)
+We've generated an alphabetical listing of [Github Repositories](github_repositories.md) so that we can easily browse one another's work.
