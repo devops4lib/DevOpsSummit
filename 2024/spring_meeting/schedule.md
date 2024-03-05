@@ -12,8 +12,7 @@
 | 12:45 - 1:40 | Afternoon session #1: Automation (55 min) | [google doc](https://docs.google.com/document/d/1MBaLsPZDBBl6fc6dZWkSi3zcGDS2G_CJH1Eb2xWoPJ8/edit) [final notes](day_one/pm_session_one.md)|
 | 1:50 - 2:35 | Afternoon session #2: Security topics (45 min) | [google doc](https://docs.google.com/document/d/1IoTsEliLBhtXG47meiWEnzs4Js7YQP8vRfax46xAjAM/edit) [final notes](pm_session_two.md)|
 | 2:45 - 3:30 | Afternoon session #3: Management (45 min) | [google doc](https://docs.google.com/document/d/1LX3dNZCZcrc9elpiLd_-NgnuZRpntQhaXQqwra3gmH4/edit) [final notes](day_one/pm_session_three.md)|
-| 3:45 - 4:15 | Wrap-up and Retro (Francis) | [google
-doc](https://docs.google.com/document/d/1N9E435TSVubZtsKTgPm8TtIgy08FnDqpod2C0qyvD1I/edit)
+| 3:45 - 4:15 | Wrap-up and Retro (Francis) | [google doc](https://docs.google.com/document/d/1N9E435TSVubZtsKTgPm8TtIgy08FnDqpod2C0qyvD1I/edit)
 | 4:30 | Happy Hour ||
 
 ### Day 2
@@ -26,8 +25,7 @@ doc](https://docs.google.com/document/d/1N9E435TSVubZtsKTgPm8TtIgy08FnDqpod2C0qy
 | 12:00 - 1:00 | Lunch | |
 | 1:00 - 1:45 | Afternoon Session #1: Containerization / Orchestration (45 min) | [google doc](https://docs.google.com/document/d/1E886KZLe1snKn6LZ32D4GMK96qqT9vIw1VbceC-pyCs/edit) [final notes](day_two/pm_session_one.md)|
 | 1:55 - 2:40 | Afternoon Session #2: Cloud (45 min) | [google doc](https://docs.google.com/document/d/16FN-fCyZ2jTXYRLc_2fcla2o2DsLeUafBa_x7akLfoE/edit) [final notes](day_two/pm_session_two.md)|
-| 2:45 - 3:15 | Wrap-up and Retro (Erick) | [google
-doc](https://docs.google.com/document/d/1p0BRWbgAQ6KcW7_2zFLRdi_6GtJpPGtuMsPQt4YMBbM/edit) |
+| 2:45 - 3:15 | Wrap-up and Retro (Erick) | [google doc](https://docs.google.com/document/d/1p0BRWbgAQ6KcW7_2zFLRdi_6GtJpPGtuMsPQt4YMBbM/edit) |
 | 3:30 - 4:30 | Tour of Education Commons | |
 
 
