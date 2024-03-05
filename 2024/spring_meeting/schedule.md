@@ -10,7 +10,7 @@
 | 10:40 - 11:40 | Morning session #1: Staffing, Training, and Human Factors (1 hr) | [google doc](https://docs.google.com/document/d/1CSjZuPO9rZvvCaOwucJz0pILDeFziTCrz9RvAphA7C0/edit) [final notes](day_one/am_session_one.md)|
 | 11:45 - 12:45 | Lunch | |
 | 12:45 - 1:40 | Afternoon session #1: Automation (55 min) | [google doc](https://docs.google.com/document/d/1MBaLsPZDBBl6fc6dZWkSi3zcGDS2G_CJH1Eb2xWoPJ8/edit) [final notes](day_one/pm_session_one.md)|
-| 1:50 - 2:35 | Afternoon session #2: Security topics (45 min) | [final notes](pm_session_two.md)|
+| 1:50 - 2:35 | Afternoon session #2: Security topics (45 min) | (google doc][https://docs.google.com/document/d/1IoTsEliLBhtXG47meiWEnzs4Js7YQP8vRfax46xAjAM/edit) [final notes](pm_session_two.md)|
 | 2:45 - 3:30 | Afternoon session #3: Management (45 min) | [final notes](day_one/pm_session_three.md)|
 | 3:45 - 4:15 | Wrap-up and Retro (Francis) |
 | 4:30 | Happy Hour |
