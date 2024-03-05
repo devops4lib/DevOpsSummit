@@ -12,7 +12,7 @@ Logistical details are available on the [event website](https://www.library.upen
 * Photo ID is required to enter the building.
 * We will meet in rooms 625 - 627 on the 6th floor. Once in the building, take the elevator to the 6th floor, turn left out of the elevator, take an immediate right, and walk straight back. Rooms 625 - 627 will be on your right.
 
-# Food
+### Food
 Morning coffee and lunch will be provided on both days.
 
 ### Code of Conduct
@@ -23,6 +23,9 @@ Please contact an event organizer if you need help with a code of conduct issue 
 ### Conference Chat
 We'll be chatting on the `#devops` channel on the code4lib slack. If you need an account on the code4lib slack, you can sign up
 at https://docs.google.com/forms/d/120Dw1JjLxPJB9VTGl0mUY7Ot6yg6YNY1RZUISJFzdwk/viewform?c=0&w=1
+
+### Session Schedule
+[schedule.md](schedule.md)
 
 ### Session notes
 [Notes google drive folder](https://drive.google.com/drive/u/1/folders/1taYn22RLyghZf9A9Ms3_jmYU03MVLAuH)
