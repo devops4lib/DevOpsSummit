@@ -12,7 +12,7 @@
 | 12:45 - 1:40 | Afternoon session #1: Automation (55 min) | [google doc](https://docs.google.com/document/d/1MBaLsPZDBBl6fc6dZWkSi3zcGDS2G_CJH1Eb2xWoPJ8/edit) [final notes](day_one/pm_session_one.md)|
 | 1:50 - 2:35 | Afternoon session #2: Security topics (45 min) | [google doc](https://docs.google.com/document/d/1IoTsEliLBhtXG47meiWEnzs4Js7YQP8vRfax46xAjAM/edit) [final notes](pm_session_two.md)|
 | 2:45 - 3:30 | Afternoon session #3: Management (45 min) | [google doc](https://docs.google.com/document/d/1LX3dNZCZcrc9elpiLd_-NgnuZRpntQhaXQqwra3gmH4/edit) [final notes](day_one/pm_session_three.md)|
-| 3:45 - 4:15 | Wrap-up and Retro (Francis) | [google doc](https://docs.google.com/document/d/1N9E435TSVubZtsKTgPm8TtIgy08FnDqpod2C0qyvD1I/edit)
+| 3:45 - 4:15 | Wrap-up and Retro (Francis) | [google doc]  (https://docs.google.com/document/d/1N9E435TSVubZtsKTgPm8TtIgy08FnDqpod2C0qyvD1I/edit) | [final notes](day_one/retro_session.md)
 | 4:30 | Happy Hour ||
 
 ### Day 2
@@ -40,21 +40,6 @@
   * What would you like to improve?
   * What are the desired deliverables?
   * What are our use cases?
-
-## Day 1 retro
-Continue
-  * point one
-  * point two
-  * point three
-
-Start
-  * point one
-  * point two
-  * point three
-
-Stop
-  * point one
-
 
 ### Day 2 retro
 
