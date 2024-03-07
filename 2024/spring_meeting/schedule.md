@@ -25,7 +25,7 @@
 | 12:00 - 1:00 | Lunch | |
 | 1:00 - 1:45 | Afternoon Session #1: Containerization / Orchestration (45 min) | [google doc](https://docs.google.com/document/d/1E886KZLe1snKn6LZ32D4GMK96qqT9vIw1VbceC-pyCs/edit) [final notes](day_two/pm_session_one.md)|
 | 1:55 - 2:40 | Afternoon Session #2: Cloud (45 min) | [google doc](https://docs.google.com/document/d/16FN-fCyZ2jTXYRLc_2fcla2o2DsLeUafBa_x7akLfoE/edit) [final notes](day_two/pm_session_two.md)|
-| 2:45 - 3:15 | Wrap-up and Retro (Erick) | [google doc](https://docs.google.com/document/d/1p0BRWbgAQ6KcW7_2zFLRdi_6GtJpPGtuMsPQt4YMBbM/edit) |
+| 2:45 - 3:15 | Wrap-up and Retro (Erick) | [google doc](https://docs.google.com/document/d/1p0BRWbgAQ6KcW7_2zFLRdi_6GtJpPGtuMsPQt4YMBbM/edit) [final notes](day_two/retrospective.md) |
 | 3:30 - 4:30 | Tour of Education Commons | |
 
 
@@ -40,20 +40,3 @@
   * What would you like to improve?
   * What are the desired deliverables?
   * What are our use cases?
-
-### Day 2 retro
-
-Plus
-  * point one
-  * point two
-  * point three
-
-
-Minus
-  * point one
-
-Delta
-  * point one
-  * point two
-  * point three
-
