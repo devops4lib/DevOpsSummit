@@ -1,80 +1,81 @@
-## Containerization and Orchestration Tools
+## Cloud
 
-* Roles:
-    * Facilitator: Andrew
-    * Notetakers: Francis, Jeremy
-    * Gatekeeper: Mike
+What problems are folks having with their cloud environment?
+* Some people in charge are not happy with having technology/servers that are( not in their control
+    * Building trust
+    * ask what makes it easy to accomplish the goal
+    * Let’s try it out with a small example/project and evaluate/expand
+    * Allow people targeted access to the server so they can see what is going on/ be transparent
+* Cloud environment in place from before, not willing to make changes after leadership change, want to take back control
+* Amazon Web Services offers ACM -> Amazon Certificate Management
+    * Let’s Encrypt
+    * ACME - Automatic Certificate Management Environment
+* expensive
 
-## Session Outline Request:
+Does anyone have a Hybrid cloud/on-prem environment
+* Lots of people have hybrid environments
+* Clouds environment used for backups
 
- * Group: Containerization Orchestration Tools (12)
-     * Podman / Docker / Colima
-     * Kubernetes
-     * Docker Swarm
-     * OpenShift
-     * Others???? (Nomad)
-     * Containerized Application Environments (K8s [Kubernetes], Docker Swarm, Etc.)
+What makes you decide to run something locally vs in the cloud?
+* Cost considerations, special contract?
+* Moving to cloud as a means of reducing staff?
+    * May result in hiring more people to manage all of the cloud services
+* Reliability
+* Scalability
+* Organizational mandates forcing you to move from local to cloud
+* Donor agreements may require application/materials remain local
+* Ease of launching off the shelf cloud packages 
+    * [serverless IIIF](https://github.com/samvera/serverless-iiif) on AWS lambda (one of best use cases), just points to S3 bucket
+        * Scalability
+        * Running only when needed
+        * Thanks mbklein
+        * Public cloud formation repository, build from Gitlab CI pipeline and point to S3 buckets
+        * Could possibly point to MinIO instead of AWS
+* cloud storage is too expensive (hundreds of terabytes)
+    * especially when i need to set up backups
+    * AWS Glacier -> cheaper low-access service, slower and more expensive to access
+* storage is fast to get in the cloud, not fast to buy disk for
+* Storing content on shared network drives, not too expensive moving to AWS
+* costs can be unpredictable
 
-## Notes:
+Assumption that cloud = AWS (or Google CS or Microsoft Azure) -> what are alternatives?
+* There are other cloud providers that are explicit about their values, which may be / likely are better aligned with library values
+* Europe is seeking more cloud alternatives that are not based in the U.S.
+* [Linode](https://www.linode.com/approach/) (aquired by akamai)
+* Hardware as a Service
+* [Scaleway](https://www.scaleway.com/en/about-us/)
+* Run cloud-like things locally (S3FS)
+* We’ve been trying to use a company called wasabi but no one has heard of it and they don’t have experience with large institutional customers, so it’s difficult.
+* there are a lot of services that are not aws on the service but often are underneath. it’s important to look at where the servers are physically located
+* platform as a service, e.g. heroku, Pantheon
 
-  * Containerization
-      * WHY containerize?
-          * Set it up once, not constantly
-          * Repeatability
-          * Scaling
-          * Handle dependencies consistently
-          * Everyone is doing it? Is it our responsibility to make sure our staff has the skills necessary to excel in the market
-          * Immutable instances. If an application misbehaves, just redeploy it.
-      * Tools
-          * Podman
-              * allows (requires?) you to run containers without root
-          * Docker
-              * docker-cli
-              * Licensing concerns introduce uncertainty when using Docker for Desktop
-          * Colima
-          * Rancher
-          *
-  * Orchestration
-      * What is orchestration?
-          * Allocation/apportioning of resources
-          * match production deployments to available resources (nodes)
-      * Tools
-          * Kubernetes
-          * Docker Swarm
-          * capistrano is an orchestrator for code deploys
-          * Docker Compose
-              * Connects multiple containers to work together (often on their own internal network)
-          * Lando (uses Docker Compose under the hood)
-      * Where are the nodes?
-          * the cloud
-          * your own kubernetes cluster on premises
-      * Deployment with an orchestrator
-          * the container is created, tested, and distributed to different nodes. The new containers and old containers run at the same time. Once the new ones are good, the old ones are turned off one by one.
-      * What is the scale at which orchestration becomes a necessity?
-          * Depends on the features of orchestration you are interested in
-          * Zero downtime deployments (not exclusive of container based deployments)
-      * DNS is handled differently
-          * orchestration tool has its own set of DNS and IPs that it manages?
-      * Example: I run independent containers on aws lambda
-          * we’re not coordinating a bunch of containers with one another
-          * is it useful to think of this as orchestration, even if it technically is management and deployment of containers?
-              * Probably not
-      * I worked at a company that used container, used rancher, etc, and it was so complex and undocumented that i felt like I had gone back in time
-          * there were 5 different ways of setting up a system in docker compose
-          * 5 different ways of getting it onto rancher
-          * it did not feel like progress
-          * Any technology needs to be implemented with conventions and consistency
-      * example: If I name my branch ‘feature/whatever’ then it gets deployed to a qa environment and i can play with it before it gets merged
-      * I don’t think I am doing a good job taking notes, other notetakers?? You are doing great but also I’m not. :D
-      * There are lots of options for orchestration. K8s is just the most common option due to who was backing it.
-      * There is a lot of complexity. Can small teams successfully do k8s? Should they?
-If you don’t need the features, you don’t need the solution.
-      * What are the light versions of kubernetes, for those of us who know we don’t want that level of complexity
-          * One person has used the ubuntu implementation
-              * Microk8s from Ubuntu
-          * k0s, k3s - these are tools that do the same thing as kubernetes, but are smaller / lighter weight (that’s what the numbers signify)
-          * I use k3s at home. with k8s there is so much tweaking you do, these light versions use an opinionated approach, e.g. you can only use traefik
-          * Convention over configuration helps these simpler solutions easier to have less config options (rails-like)
-          * kamal is apparently a new thing rails is doing, to deploy containers
-      * Some service providers are allowing for more efficient pricing by only running containers when they are requested
-      * Orchestration options handle secrets management fairly well
+Critical infrastructure:
+* If the cloud goes down, do you have a plan in place for recovery?
+
+Processing content in the cloud first and then pulling down for local storage for lower cost
+
+Tips:
+* If you scale up an EC2 server for a weekend project, don’t forget to turn it off! Or you will get a huge bill. You can setup of billing alerts.
+* Don’t post your Amazon key in a public repo!
+* Learn Identity Access Management [https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html](https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html)
+
+We are able to run our load more ethically by using cloud resources because we can right-size the computer to the task.
+* How did you measure this?
+    * hired consultants to look at our electric consumption
+* put the link here to [Hillel’s code4lib talk and/or blog
+    post](https://www.youtube.com/live/McqOGzHfmOM?si=QXssdDDAABF_fOYw&t=4626)
+* Consider where your electricity is coming from
+
+VMWare - everyone wants to jump ship
+* ownership changed to Broadcom, price has increased by 600%
+* Proxmox -> not ready for primetime
+    * Does it support alternative storage backends? Not sure
+    * Ceph (a way of storing data; it abstracts away the contents of the data into a high availability cluster and balances) is under the hood, handling storage is clunky and complicated
+    * Moving data from one node to the other is a hassle
+    * Have to go through many (like 15) steps to set something up in the cloud
+    * Veeam may soon support Proxmox
+* Azure on-prem?
+* Linux on Hypervisor?
+* Xen is an option for local hosting
+* What are we going to do for the future? The important thing is the data, not necessarily the platform
+* Many hardware vendors are committed to us being able to run our own clusters; hopefully their parent companies are going to help figure this out (maybe via supporting alternative open source projects)
